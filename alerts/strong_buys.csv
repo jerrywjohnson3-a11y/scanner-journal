@@ -1,1 +1,8 @@
 timestamp,symbol,pair,entry_price,breakout_score,signal,rsi14,macd_signal,macd_histogram,volume_24h,volume_spike,change_1h,change_24h,momentum,tags
+2026-04-16T03:57:55.671Z,AAVE,AAVE-USD,106.95,75,buy,62.05,bullish,0.02062696,8185279.00,0.18,3.71,7.85,0.5169,RSI bullish zone; MACD bullish; surging
+2026-04-16T03:57:55.671Z,PNUT,PNUT-USD,0.0544,75,buy,25.76,bearish,-0.00017541,587512.12,0.08,20.35,28.30,0.0000,RSI oversold; pumping
+2026-04-16T03:57:55.671Z,SPX,SPX-USD,0.3437,75,buy,18.09,bearish,-0.00049777,588425.48,0.01,6.24,5.33,-0.9225,RSI oversold; pumping
+2026-04-16T03:57:55.671Z,NOM,NOM-USD,0.0031,73,buy,25.00,bearish,-0.00000277,717027.20,1.81,-2.82,-11.68,-0.3215,RSI oversold; elevated volume
+2026-04-16T03:57:55.671Z,BIO,BIO-USD,0.04602,72,buy,58.24,bullish,0.00021951,13806210.38,0.65,82.55,137.09,10.3862,strong uptrend; pumping
+2026-04-16T03:57:55.672Z,TIME,TIME-USD,4.07,72,buy,67.09,bullish,0.04216790,2618387.39,0.23,-8.74,72.46,4.3590,RSI bullish zone; MACD bullish; uptrend; dumping
+2026-04-16T03:57:55.672Z,AZTEC,AZTEC-USD,0.02301,70,buy,25.33,bearish,-0.00001820,468065.65,1.09,3.18,4.21,-0.2601,RSI oversold; surging

@@ -16,3 +16,4 @@ timestamp,symbol,pair,entry_price,breakout_score,signal,rsi14,macd_signal,macd_h
 2026-04-16T04:32:55.498Z,IP,IP-USD,0.507,70,buy,57.14,bullish,0.00002910,826930.89,3.01,1.81,1.20,0.1976,major volume spike,,,,,,
 2026-04-16T05:23:56.819Z,VVV,VVV-USD,8.7142,76,buy,67.01,bullish,0.01153463,5166658.03,4.59,1.77,-3.22,1.5215,RSI bullish zone; MACD bullish; major volume spike,1b560ee0,N,,,,,,
 2026-04-16T05:23:56.819Z,BNB,BNB-USD,623.48,70,buy,44.37,bearish,-0.12194649,907701.69,3.33,-0.09,1.26,-0.1201,major volume spike; ⚠ fee risk,1b560ee0,Y,,,,,,
+2026-04-16T05:50:30.680Z,SKY,SKY-USD,0.07491,73,sell,27.50,bearish,-0.00000330,529095.17,1.83,-0.23,0.64,-0.0133,RSI oversold; elevated volume; ⚠ fee risk,37f254b1,Y,,,,,,
